@@ -1,4 +1,6 @@
 ## Olá Eu sou Renan Coutinho, Estudante de Analise e desenvlvimento de Sistemas 
+💻 Interesse em Desenvolvimento Backend, Banco de Dados e API´S
+📚 Em busca de estágio para aplicar conhecimentos acadêmicos em projetos reais
 
 
 
